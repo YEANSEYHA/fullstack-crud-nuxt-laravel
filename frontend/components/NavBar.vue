@@ -10,7 +10,6 @@
         <div class="navbar-links">
           <ul>
             <li><nuxt-link to="/" class="brand">Home</nuxt-link></li>
-            <li><nuxt-link to="/test" class="brand">test</nuxt-link></li>
           </ul>
         </div>
 </nav>

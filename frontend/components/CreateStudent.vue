@@ -11,7 +11,7 @@
         <label>Phone: </label>
         <input type="text" name="phone"/>
         <br>
-        <button type="submit">Create Student</button>
+        <v-btn type="submit" color="red" elevation="11" small>Create Student</v-btn>
     </form>
 
 </div>
@@ -24,10 +24,6 @@ export default {
 </script>
 
 <style scoped>
-button{
-    color: green;
-    border: 2px solid greenyellow;
-}
 input[type=text], select {
   width: 100%;
   padding: 12px 20px;
